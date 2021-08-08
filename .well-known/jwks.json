@@ -1,6 +1,8 @@
-{ keys:
-   [ { kty: 'EC',
-       kid: 'GmfcpgVKHKttLuOXv3adhS_jCvvS8vGPrpbqqcdUU5s',
-       crv: 'P-256',
-       x: 'tXkhhNYmW0v_KOaGN5TOWBcfzvEcZyJM6ByW40nYu08',
-       y: '2SjQWtF49oUaRFRBIYzCb--FGQ_cLKg7x4ngAjDo-0I' } ] }
+{ "keys":
+   [ { "kty": "EC",
+       "kid": "KHTgUnatDWIK3chh4O6l3PJFUXRRKZwKQj7lJXTC6ck",
+       "crv": "P-256",
+       "x": "L5ow82pBW_Lf3WrOstZ2echiIYW0XwRs4JfXH168epg",
+       "y": "20wL3UHN6XJ9b__FDGcXd-AaG9FkNb5k8qIQxVHKa6s" } 
+   ] 
+}
