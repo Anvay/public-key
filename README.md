@@ -1,2 +1,2 @@
 # public-key
-Proof of concept of such generation
+Proof of concept of smart health card generation
