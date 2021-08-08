@@ -1,0 +1,6 @@
+{ keys:
+   [ { kty: 'EC',
+       kid: 'GmfcpgVKHKttLuOXv3adhS_jCvvS8vGPrpbqqcdUU5s',
+       crv: 'P-256',
+       x: 'tXkhhNYmW0v_KOaGN5TOWBcfzvEcZyJM6ByW40nYu08',
+       y: '2SjQWtF49oUaRFRBIYzCb--FGQ_cLKg7x4ngAjDo-0I' } ] }
